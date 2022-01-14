@@ -242,12 +242,15 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#0689b8",endCo
 @media (max-width:575px){
 
 	.strapline {
-			font-size:3rem;
+			font-size:2.5rem;
+		text-align: center;
+		padding:10px 50px 10px 50px;
 		}
-
+	.smartcloudlogo{
+		width:90%;
 	
-}
-
+		}
+	}
 
 @media (min-width:576px){
 	.smartcloudlogo{
@@ -260,10 +263,6 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#0689b8",endCo
 	.strapline {
 			font-size: 2.75rem;
 		}
-	
-	
-	
-		
 	
 }
 
@@ -290,11 +289,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#0689b8",endCo
 	.strapline {
 			font-size: 3rem;
 		}
-	
-	
-	
-	
-	
+		
 }
 /*@media (min-width:1400px){
 	.smartcloudlogo {
